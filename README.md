@@ -7,5 +7,5 @@ through clickable links. It also includes a handful of other clickable links whi
 take the user to an external website.
 
 ### Features
-RSVP form
+RSVP form, 
 external links
