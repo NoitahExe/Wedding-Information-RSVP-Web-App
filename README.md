@@ -6,6 +6,9 @@ registration fields to be completed and an animation to be shown. This is access
 through clickable links. It also includes a handful of other clickable links which
 take the user to an external website.
 
+This project was constructed to meet the requirements of an UMSL Web Design class requirement.
+
 ### Features
 RSVP form, 
-external links
+external links, 
+animation
